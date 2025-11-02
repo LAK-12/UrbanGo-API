@@ -24,7 +24,7 @@ This repository contains the **Spring Boot backend** that powers the UrbanGo web
 ##  How To Run 
 1. Make sure **Java 21** and **PostgreSQL** are installed.  
 2. Clone this repository:  
-   git clone https://github.com/yourusername/urbango-api.git
+   git clone https://github.com/yourusername/UrbanGo-API.git
 3. Open it in your IDE and run the project (mvn spring-boot:run).
 4. The API should start at http://localhost:8080
 

@@ -9,5 +9,4 @@ public class UrbanGoApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(UrbanGoApiApplication.class, args);
 	}
-
 }

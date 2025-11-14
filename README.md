@@ -15,14 +15,14 @@ This repository contains the **Spring Boot backend** that powers the UrbanGo web
 
 ## Tech Stack
 - **Backend:** Spring Boot (Java)
-- **Database:** PostgreSQL / SQL
+- **Database:** MySQL
 - **External APIs:** Foursquare, OpenTripMap, OpenCage, OpenRouteService
 - **Build Tool:** Maven
 
 ---
 
 ##  How To Run 
-1. Make sure **Java 21** and **PostgreSQL** are installed.  
+1. Make sure **Java 21** and **MySQL** are installed.  
 2. Clone this repository:  
    git clone https://github.com/yourusername/UrbanGo-API.git
 3. Open it in your IDE and run the project (mvn spring-boot:run).

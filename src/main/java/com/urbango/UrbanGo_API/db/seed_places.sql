@@ -1,5 +1,3 @@
-USE urbango;
-
 INSERT INTO places
 (id, name, city_name, country_code, category, lat, lng, address,
  rating, rating_count, price_tier, is_halal, opening_hours_json)
